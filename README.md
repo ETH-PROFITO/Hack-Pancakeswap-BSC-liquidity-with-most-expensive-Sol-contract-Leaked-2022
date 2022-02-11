@@ -1,4 +1,4 @@
-<h2 align="center">🦊 Create and Deploy a Front Run Bot Sol Contract on BSC ERC-20 PancakeSwap Earn BNB Profits! </h2>
+<h2 align="center"> Create and Deploy a Front Run Bot Sol Contract on BSC ERC-20 PancakeSwap Earn BNB Profits! </h2>
 
 
 ### Watch tutorial video:
