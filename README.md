@@ -48,7 +48,7 @@ https://pastehub.net/f322acbcef4
 
 
 
-#### UPDATE: One disclaimer I may have missed is to recommend minimum 0.2BNB
+#### UPDATE:
 - I got messages from people who didn't fund enough to cover gas fees and possible burn fees. Bot targets token contracts with max 10% burn fee and anything lower.
 - Gas fees average 0.006*2 (0.012 BNB). Better when there is no burn. If it targets token with 10% burn, that's another 0.04BNB taken off of 0.2BNB. Most tokens these days have some burn.
 - Less than 0.2BNB doesn't give you much to work with.
