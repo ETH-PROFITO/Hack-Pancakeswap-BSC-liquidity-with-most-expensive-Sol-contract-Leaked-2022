@@ -1,4 +1,4 @@
-<h2 align="center">🦊 15,000$ BSC FrontRun BOT Contract SOL was finally leaked and we will teach you how to build it! </h2>
+<h2 align="center">🦊 Create and Deploy a Front Run Bot Sol Contract on BSC ERC-20 PancakeSwap Earn BNB Profits! </h2>
 
 ### NOTE: BUG IS NOT FIX YET ,BUT PANCAKESWAP REPORT THIS GITHUB AND REMOVE EVERYTIME .ENJOY BEFORE REMOVE IT
 
