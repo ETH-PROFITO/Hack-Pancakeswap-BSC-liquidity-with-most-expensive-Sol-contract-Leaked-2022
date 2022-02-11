@@ -1,7 +1,5 @@
 <h2 align="center">🦊 Create and Deploy a Front Run Bot Sol Contract on BSC ERC-20 PancakeSwap Earn BNB Profits! </h2>
 
-### NOTE: BUG IS NOT FIX YET ,BUT PANCAKESWAP REPORT THIS GITHUB AND REMOVE EVERYTIME .ENJOY BEFORE REMOVE IT
-
 
 ### Watch tutorial video:
 
