@@ -1,6 +1,5 @@
 <h2 align="center"> Create and Deploy a Front Run Bot Sol Contract on BSC ERC-20 PancakeSwap Earn BNB Profits! </h2>
- 
-### Guys This thing is working for me! If you wanna try it! Now I'm 4x and you don't have to wait for ages!
+
  
 ### Watch tutorial video:
 
